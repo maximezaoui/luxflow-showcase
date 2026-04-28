@@ -106,10 +106,6 @@ LuxFlow
 
 ![LuxFlow Ecosystem Map](docs/luxflow-ecosystem-map-v2.png)
 
-### LuxFlow OS Model
-
-![LuxFlow OS Model](docs/luxflow-os-model.png)
-
 ---
 
 ## Main Concepts
