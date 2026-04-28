@@ -104,7 +104,7 @@ LuxFlow
 
 ### LuxFlow Ecosystem Map
 
-![LuxFlow Ecosystem Map](docs/luxflow-ecosystem-map-V2.png)
+![LuxFlow Ecosystem Map](docs/luxflow-ecosystem-map-v2.png)
 
 ### LuxFlow OS Model
 
